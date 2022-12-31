@@ -3,7 +3,8 @@
 
 <template>
   <main>
-    <img src="@/assets/yape-cover.png" alt="Yape cover">
+    <img src="@/assets/banner-yapero-1.png" alt="Yape cover">
+    <img src="./assets/qr.png" alt="QR">
   </main>
 </template>
 
@@ -24,9 +25,10 @@ header {
     align-items: center;
     width: 100%;
     height: 100vh;
+    gap: 64px;
   }
   img {
-    height: 720px;
+    height: 320px;
     object-fit: cover;
   }
 }
