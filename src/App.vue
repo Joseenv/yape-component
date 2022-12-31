@@ -3,7 +3,7 @@
 
 <template>
   <main>
-    <img src="./assets/yape-cover.png" alt="Yape cover">
+    <img src="@/assets/yape-cover.png" alt="Yape cover">
   </main>
 </template>
 
